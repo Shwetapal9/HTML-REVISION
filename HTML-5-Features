@@ -1,0 +1,15 @@
+1. Media Tags: Audio and Video tags are the two major addition to HTML5. It allows developers to embed a video or audio on their website.
+
+2. Header and Footer: With these new tags, there is no longer a need to identify the two elements with a <div> tag. Footer is placed at the end of the web page while Header is placed at the start of the web page. By using <header> and <footer> HTML5 elements
+
+3. Figure and Figcaption: HTML5 allows to use a <figure> element to mark up a photo in a document, and a <figcaption> element to define a caption for the photo. The <figcaption> tag defines a caption for a <figure> element. This tag provides a container for content that is equivalent to a figure. It can be used to group a caption with one or more images, a block of code, or other content.
+Eg: <figure>
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="GFG" style="width:50%">
+  <figcaption>Fig.1 - Geeksforgeeks.</figcaption> 
+</figure>
+
+4) Nav tag: The <nav> tag defines a set of navigation links. It is used for the part of an internet site that links to different pages at the website. The hyperlinks can be organized through a number of approaches. Common examples of the nav elements are menus, tables, contents, and indexes.
+
+5) Geolocation API: The Geolocation API is an HTML feature that is used to access the geographical position of a user, however, it is not accessed unless the user approves of it. If you’re wondering where this feature is useful, these come in handy while creating apps like taxi apps, food order tracking apps, fitness tracking apps, and more.
+
+6) Form enhancements: HTML 5 introduces new features for your existing forms on HTML to create a more robust user experience. Some of the key enhancements in the new HTML 5 include new input times such as email, URL, and more, placeholder text, required fields feature, validation, and more.
