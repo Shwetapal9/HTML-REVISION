@@ -1,0 +1,6 @@
+HTML was invented to give the structure to web files.
+Can go from one file to another.
+
+What is an HTML Element?
+=> Tags that wraps text and let's the browser know what to do with it
+eg: <p>Shweta</p> is a whole element
