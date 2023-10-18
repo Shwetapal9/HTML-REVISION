@@ -1,0 +1,25 @@
+BASIC HTML STRUCTURE
+
+<html>...</html>
+The root element of an HTML document;
+All other elements are contained in this.
+The HTML element delimits the beginning and end of an HTML doc.
+
+
+<head>...</head>
+Container for processing information and metadata for an HTML document.
+
+
+<body>...</body>
+Container for the displayable content of an HTML document.
+
+
+DOCUMENT METADATA
+<meta>  The HTML <meta> element respresents metadata that cannot be respresented by
+        other HTML meta-related elements, like <base>,<link>,<scripts>,, <title>, <style>;
+
+<style> : The HTML <style> element contains information for a document,or a part of a document.
+
+<title> The HTML <title> defines the document's title that is shown in a browser's title bar or a page's tab.
+    
+<link> For external files mainly for styling
